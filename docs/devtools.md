@@ -381,6 +381,7 @@
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / [Telegram](https://t.me/moviesapi_club)
 * [GoDrivePlayer](https://godriveplayer.com/) - Movies / TV / Anime / Use Popup Blocker
+* [SpenEmbed](https://embed.spencerdevs.xyz/) - Movies / TV / No Ads / [Discord](https://discord.gg/RF8vMBRtTs)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
 
 ***
