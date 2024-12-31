@@ -108,6 +108,7 @@
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup / US Only
 * [Flixtor](https://flixtor.to/) - Movies / TV / 720p / Auto-Next / Movies Older Than 6 Months For Premium Only
+* [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / 360p - 1080p / No Ads
 * [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
 
 ***
